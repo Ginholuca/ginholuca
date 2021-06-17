@@ -21,7 +21,8 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="20" height="20"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="20" height="20"/></p><p align="center">
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original-wordmark.svg" alt="flutter" width="20" height="20"/></p><p align="center">
+ <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" alt="flutter" width="20" height="20"/></p><p align="center">
+ <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" alt="apple" width="20" height="20"/></p><p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=ginholuca&show_icons=true" alt="ginholuca"/> 
 </p>
 
