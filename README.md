@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **ginholucacorrea@icloud.com**
 
-- ⚡ Fun fact **I have a Pug named Bob<img src="https://github.com/Ginholuca/bob/blob/main/bobzao.jpg" alt="bob" width="30" height="30"/>**
+- ⚡ Fun fact **I have a Pug named Bob <img src="https://github.com/Ginholuca/bob/blob/main/bobiiiii.png" alt="bob" width="30" height="30"/>**
 
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/>
