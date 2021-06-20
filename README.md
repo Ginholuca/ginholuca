@@ -1,6 +1,6 @@
 <h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Giovanni De Luca</h1>
 <h3 align="center">A Web Designer learning to love programming.</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ginholuca" alt="ginholuca" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ginholuca" alt="ginholuca" /> </p> 
 
 - 🔭 I’m study at [Rocketseat](https://github.com/Rocketseat)
 
