@@ -8,7 +8,7 @@
 
 - ▶️ Some of my Design projects are available at [behance.net/ginholuca](https://www.behance.net/ginholuca)
 
-- 💬 Ask me about **JavaScript, React, React Native, Flutter**
+- 💬 Ask me about **JavaScript, React, React Native, Flutter** 
 
 - 📫 How to reach me **ginholucacorrea@icloud.com**
 
