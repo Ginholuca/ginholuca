@@ -2,13 +2,13 @@
 <h3 align="center">A Web Designer learning to love programming.</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ginholuca" alt="ginholuca" /> </p> 
 
-- 🔭 I’m study at [Rocketseat](https://github.com/Rocketseat)
+- 🔭 I’m study React Native at [Rocketseat](https://github.com/Rocketseat)
 
 - 👨‍💻 All of my projects are available at [github.com/ginholuca](https://github.com/ginholuca)
 
 - ▶️ Some of my Design projects are available at [behance.net/ginholuca](https://www.behance.net/ginholuca)
 
-- 💬 Ask me about **JavaScript, React, React Native, Flutter** 
+- 💬 Ask me about **React Native** 
 
 - 📫 How to reach me **ginholucacorrea@icloud.com**
 
